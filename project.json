@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 3,
+  "name": "Atlas",
+  "repositories": [
+    { "name": "cretspec-demo-app", "url": "../cretspec-demo-app", "purpose": "The Atlas greeter, a tiny command-line program." }
+  ],
+  "guidelines": { "repository": "../cretspec-demo-guidelines", "ref": "main" }
+}
